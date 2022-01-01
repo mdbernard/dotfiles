@@ -1,0 +1,15 @@
+add_newline = true
+
+[line_break]
+disabled = false
+
+[character]
+success_symbol = "[➜](bold green) "
+error_symbol = "[✗](bold red) "
+
+[directory]
+truncate_to_repo = true
+truncation_symbol = ".../"
+
+[conda]
+ignore_base = false
